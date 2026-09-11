@@ -32,4 +32,4 @@ while running:
         running = False
 
     else:
-        print("Please enter a valid option from 1 to 5.")
+        print("Please enter a valid option from 1 to 5!")
